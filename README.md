@@ -7,7 +7,7 @@
 ------------
 
 
-###Step:
+### Step:
 1. run `$ pnpm install`
 2. run `$ pnpm run dev`
 
